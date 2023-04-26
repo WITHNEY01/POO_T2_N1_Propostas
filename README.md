@@ -4,3 +4,5 @@ Trabalho 2 de POO / Propostas
 | Questões | Enunciado |
 | ------------- | -------------- |
 | `01`  | Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
+| `03`  | Faça um programa que receba dois números e mostre o menor.
+| `05`  | 
